@@ -1,4 +1,4 @@
-## heylo there👀
+## hello there👋
 
 a detail-oriented genius suffering from lack of focus despite having extreme willpower
 
