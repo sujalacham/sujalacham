@@ -1,6 +1,6 @@
 ## heylo there👀
 
-detail-oriented genius here, suffering from lack of focus despite having extreme willpower
+a detail-oriented genius suffering from lack of focus despite having extreme willpower
 
 - i'm a high school student, currently in grade 12
 - i have moderate knowledge about **java** and- *umm, that's  it lol💀*
@@ -9,7 +9,7 @@ detail-oriented genius here, suffering from lack of focus despite having extreme
 - i'm currently learning **python**, working with **discord api** and looking forward to **web development** 
 
 - 💬 reach me out on salcustium@gmail.com
-- ⚡ fun fact: we live in a simulation 
++ ⚡ fun fact: we live in a simulation 
 
 <!--
 **sujalacham/sujalacham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
