@@ -6,7 +6,7 @@ a detail-oriented genius suffering from lack of focus despite having extreme wil
 - i have moderate knowledge about **java** and- *umm, that's  it lol💀*
 - i have exceptional cognitive abilities, problem solving and debugging skills😳
 - i'm currently working on **morph-bot** (a multipurpose discord bot) and **het-bot** (a het-dissing bot)
-- i'm currently learning **python**, working with **discord api** and looking forward to **web development** 
+- i'm currently learning **flutter**, **python**, working with **discord api** and looking forward to **web development** 
 
 - 💬 reach me out on salcustium@gmail.com
 + ⚡ fun fact: we live in a simulation 
